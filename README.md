@@ -15,6 +15,7 @@
 | **Security** | Custom Session Authentication via `hashlib` 🔒 |
 | **Standard / Manual** | U.S. Air Force **AFI / AFM 11-231** (CARP Procedures) 📖 |
 | **Domain** | Military Aviation, Flight Planning & Ballistic Calculations ✈️ |
+| **UI Languages** | English, Turkish 🌐|
 
 ---
 
