@@ -3,8 +3,7 @@
 > An advanced aerial delivery calculation tool designed to compute precise aircraft release point coordinates for High Altitude High Opening (**HAHO**) and High Altitude Low Opening (**HALO**) cargo and heavy equipment operations.
 
 ---
-🚀 **Live Demo:** *URL will be posted here pretty soon!*
-
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-harp--x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://harp-x.streamlit.app/)
 ---
 
 ## 🛠️ Tech Stack & Specifications
@@ -42,6 +41,8 @@ Upon data ingestion, the core engine automatically resolves complex atmospheric 
   - **Decimal Degrees (DD)**
   - **Degrees, Minutes, Seconds (DMS)**
 
+---
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-harp--x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://harp-x.streamlit.app/)
 ---
 
 > ⚠️ **Notice on Source Code Access**  
