@@ -19,6 +19,9 @@
 
 ---
 
+<img width="1713" height="752" alt="harp-x" src="https://github.com/user-attachments/assets/167ff119-f582-4863-8cd2-5cd54874856f" />
+
+
 ## 💡 Key Features & Operational Workflow
 
 ### 1. 🔐 Authentication & Session Security
