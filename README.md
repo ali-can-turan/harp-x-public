@@ -52,4 +52,4 @@ Upon data ingestion, the core engine automatically resolves complex atmospheric 
 > ⚠️ **Notice on Source Code Access**  
 > Due to particular ballistic calculation models, parameters, and flight algorithms, the source code for this project is maintained in a **private repository**.  
 >  
-> *For technical inquiries, system architecture discussions, or a live presentation of the application, feel free to reach out directly.*
+> *For technical inquiries, system architecture discussions, or a live presentation of the application, feel free to reach out directly via contact addresses given at my profile page.*
